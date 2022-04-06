@@ -1,0 +1,8 @@
+.similar-card-li {
+  background-color: #515152;
+  padding: 20px;
+  border-radius: 10px;
+  margin: 15px;
+  width: 36%;
+  list-style-type: none;
+}

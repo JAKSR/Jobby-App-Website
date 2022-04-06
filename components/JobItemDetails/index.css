@@ -1,0 +1,60 @@
+.job-card-app-div {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #000000;
+  min-height: 100vh;
+}
+.clicked-job-card {
+  width: 90%;
+  padding: 30px;
+}
+.white {
+  color: aliceblue;
+}
+.skills-hd {
+  color: aliceblue;
+}
+.desc-hd-visit-link-div {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.visit-link {
+  text-decoration: none;
+  margin-right: 5px;
+}
+.pin-clr {
+  color: blue;
+}
+.skills-ul {
+  display: flex;
+  flex-wrap: wrap;
+  padding-left: 0px;
+}
+.life-at-cmp-hd {
+  color: aliceblue;
+}
+.desc-img-div {
+  display: flex;
+}
+.desc {
+  color: aliceblue;
+  font-size: 18px;
+}
+.desc-img {
+  margin-left: 10px;
+}
+.similar-jobs-div {
+  width: 90%;
+  margin-bottom: 50px;
+}
+.sim-jobs-h1 {
+  color: aliceblue;
+}
+.similar-ul {
+  display: flex;
+  flex-wrap: wrap;
+  padding-left: 0px;
+}

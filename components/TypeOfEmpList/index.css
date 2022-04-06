@@ -1,0 +1,10 @@
+.li-style {
+  list-style-type: none;
+}
+.emp-label {
+  font-family: 'Roboto';
+  color: #ffffff;
+  font-size: 14px;
+  margin-left: 10px;
+  cursor: pointer;
+}

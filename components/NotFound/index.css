@@ -1,0 +1,14 @@
+.not-found-div {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background-color: #000000;
+}
+.not-found-hd {
+  color: #ffffff;
+}
+.not-found-para {
+  color: #ffffff;
+}

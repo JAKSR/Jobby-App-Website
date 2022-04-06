@@ -1,0 +1,11 @@
+.sal-li-style {
+  list-style-type: none;
+  margin-bottom: 10px;
+}
+.sal-label {
+  font-family: 'Roboto';
+  color: #ffffff;
+  font-size: 14px;
+  margin-left: 10px;
+  cursor: pointer;
+}

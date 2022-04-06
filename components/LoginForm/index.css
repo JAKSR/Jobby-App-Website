@@ -1,0 +1,71 @@
+.login-div {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  width: 100%;
+  background-color: black;
+}
+.form-logo-div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+.form-logo {
+  width: 130px;
+  margin-bottom: 40px;
+}
+.form-div {
+  width: 30%;
+  padding: 20px;
+  background-color: #272727;
+  border-radius: 8px;
+}
+.inputs-div {
+  display: flex;
+  flex-direction: column;
+}
+.label {
+  color: #ffffff;
+  font-size: 14px;
+  margin-bottom: 10px;
+}
+.input {
+  border: 1px solid #b6c5ff;
+  border-radius: 3px;
+  height: 40px;
+  margin-bottom: 20px;
+  font-family: 'Roboto';
+  background: transparent;
+  outline: none;
+  padding-left: 8px;
+  color: #ffffff;
+}
+.login-btn {
+  padding-left: 32px;
+  padding-right: 32px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  border: none;
+  background-color: #6366f1;
+  cursor: pointer;
+  border-radius: 5px;
+  color: #ffffff;
+  width: 100%;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.error-msg {
+  color: red;
+  font-size: 15px;
+  font-family: 'roboto';
+  font-weight: 500;
+}
+
+@media screen and (max-width: 768px) {
+  .form-div {
+    width: 80%;
+  }
+}

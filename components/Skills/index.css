@@ -1,0 +1,14 @@
+.skills-li {
+  list-style-type: none;
+  margin: 50px;
+}
+.skills-div {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.skill-name {
+  color: aliceblue;
+  font-weight: 500;
+}
